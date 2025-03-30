@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Parth Tank ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">  
+### 💻 Full Stack JavaScript Developer
 
-<!--
-**Parthtank21/ParthTank21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer with over **2 years of MERN stack experience**. I specialize in JavaScript, TypeScript, Angular, React, NextJS, Tailwind CSS, Git, Node.js, and Express.js to build scalable, high-performance web applications. I enjoy working in team, solving challenges and exploring new technologies to build impactful, user-centered applications.
 
-Here are some ideas to get you started:
+### ⚡ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,materialui,nodejs,express,mongodb,git,vscode,postman" />
+</p>
+
+### 🤝 Connect with Me  
+[🌐 Portfolio](https://parthtank.vercel.app) · [💼 LinkedIn](https://linkedin.com/in/parthtank301) · [🧑‍💻 GitHub](https://github.com/ParthTank21) · 📧 **parthtank301@gmail.com**
+
+
+<p align="center">
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ParthTank21&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000">
+  <img  height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=ParthTank21&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+Thanks for visiting! ✨ Let's connect and **collaborate to explore new possibilities** 🤝
