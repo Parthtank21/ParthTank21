@@ -14,8 +14,8 @@ I am a Software Developer with over **2 years of MERN stack experience**. I spec
 
 
 <p align="center">
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ParthTank21&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000">
-  <img  height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=ParthTank21&theme=darcula&hide_border=true&background=FFFFFF00">
+<img height="50%" width="400" src="https://github-readme-stats.vercel.app/api?username=ParthTank21&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000">
+  <img  height="50%" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=ParthTank21&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
 Thanks for visiting! ✨ Let's connect and **collaborate to explore new possibilities** 🤝
